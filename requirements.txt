@@ -1,0 +1,4 @@
+Django==1.7
+mongoengine==0.8.7
+PyGithub==1.29
+pymongo==2.7.2
